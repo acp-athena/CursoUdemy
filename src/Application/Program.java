@@ -27,7 +27,7 @@ public class Program {
         System.out.print("Name: ");
         String workerName = sc.nextLine();
         System.out.print("Level: ");
-        String workerLevel = sc.nextLine();
+        String workerLevel = sc.nextLine();   
         System.out.print("Base Salary: ");
         double baseSalary = sc.nextDouble();
 
