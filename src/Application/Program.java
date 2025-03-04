@@ -6,8 +6,6 @@ import java.util.Date;
 import java.util.Locale;
 import java.util.Scanner;
 
-import javax.swing.JApplet;
-//asdsdasdsd
 import Entities.Department;
 import Entities.HourContract;
 import Entities.Worker;
